@@ -6,9 +6,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0136-single-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
