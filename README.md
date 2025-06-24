@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0136-single-number) |
+| [1677-matrix-diagonal-sum](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1677-matrix-diagonal-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0054-spiral-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
