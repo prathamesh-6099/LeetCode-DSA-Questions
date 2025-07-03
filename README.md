@@ -31,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0074-search-a-2d-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
