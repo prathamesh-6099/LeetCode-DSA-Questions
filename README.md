@@ -44,12 +44,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0953-reverse-only-letters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0242-valid-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0242-valid-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
