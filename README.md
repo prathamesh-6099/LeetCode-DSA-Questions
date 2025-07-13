@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0898-transpose-matrix) |
 ## Binary Search
 |  |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
