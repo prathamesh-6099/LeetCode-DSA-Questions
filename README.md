@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0338-counting-bits) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
