@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Number Theory
 |  |
 | ------- |
@@ -82,8 +83,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
