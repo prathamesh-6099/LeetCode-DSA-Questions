@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0344-reverse-string) |
 | [0953-reverse-only-letters](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0953-reverse-only-letters) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0242-valid-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sorting
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0948-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
