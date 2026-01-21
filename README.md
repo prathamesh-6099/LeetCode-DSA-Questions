@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -123,5 +124,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
