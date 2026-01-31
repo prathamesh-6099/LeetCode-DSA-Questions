@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0169-majority-element) |
 | [0898-transpose-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0948-sort-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1677-matrix-diagonal-sum) |
@@ -66,18 +67,21 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0242-valid-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0948-sort-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0169-majority-element) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Math
 |  |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
