@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0898-transpose-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0948-sort-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1677-matrix-diagonal-sum) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
