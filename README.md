@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0953-reverse-only-letters) |
 ## String
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0392-is-subsequence) |
 | [0953-reverse-only-letters](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0953-reverse-only-letters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 ## Hash Table
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
