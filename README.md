@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0058-length-of-last-word) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0242-valid-anagram) |
@@ -193,5 +195,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
