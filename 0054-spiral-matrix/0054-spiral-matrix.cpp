@@ -15,7 +15,7 @@ public:
                result.push_back(matrix[srow][j]);
             }
 
-            //left
+            //Right
             for(int i=srow+1;i<=erow;i++){
                 result.push_back(matrix[i][ecol]);
             }
@@ -29,7 +29,7 @@ public:
 
             }
 
-            //right
+            //Left
             for(int i=erow-1;i>srow;i--){
                 if(scol==ecol){
                     break;
