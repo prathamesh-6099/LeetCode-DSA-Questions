@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0088-merge-sorted-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1677-matrix-diagonal-sum) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0073-set-matrix-zeroes](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0169-majority-element) |
