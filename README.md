@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0228-summary-ranges](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0238-product-of-array-except-self) |
 | [0898-transpose-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0948-sort-an-array) |
