@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0056-merge-intervals) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0191-number-of-1-bits) |
 | [0948-sort-an-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0948-sort-an-array) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
