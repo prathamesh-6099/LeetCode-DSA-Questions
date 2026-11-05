@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0898-transpose-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0948-sort-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1677-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1677-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0242-valid-anagram) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2965-find-missing-and-repeated-values](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/1013-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/prathamesh-6099/LeetCode-DSA-Questions/tree/master/2965-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
