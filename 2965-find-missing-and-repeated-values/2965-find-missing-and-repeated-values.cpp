@@ -13,7 +13,7 @@ public:
             }
         }
 
-        for(int i=0;i<n*n+1;i++){
+        for(int i=1;i<n*n+1;i++){
             if(freq[i]>1){
                 dup=i;
             }
